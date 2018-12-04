@@ -1,9 +1,0 @@
-p.tip {
-  border-left-color: #f66;
-}
-p.tip:before {
-  content: "!";
-  background-color: #f66;
-}
-
-/* iframe { height: -webkit-fill-available; } */
