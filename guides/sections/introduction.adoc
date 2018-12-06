@@ -1,0 +1,27 @@
+== Introduction
+
+=== Red Hat OpenShift Development I: Containerizing Applications
+
+Red Hat OpenShift Container Platform, based on container technology and
+Kubernetes, provides developers an enterprise-ready solution for developing
+and deploying containerized software applications.
+
+_Red Hat OpenShift Development I: Containerizing Applications_ (DO288),
+the second course in the OpenShift development track, teaches students how
+to design, build, and deploy containerized software applications on an
+OpenShift cluster. Whether writing native container applications or
+migrating existing applications, this course provides hands-on training
+to boost developer productivity powered by Red Hat OpenShift Container Platform.
+
+=== Objectives
+* Design, build, and deploy containerized applications on an OpenShift cluster.
+
+=== Audience
+* Software Developers
+* Software Architects
+
+=== Prerequisites
+* Either have completed the _Introduction to Containers, Kubernetes, and Red Hat
+OpenShift_ (DO180) course, or have equivalent knowledge.
+* A minimum of an RHCSA certification or equivalent experience to navigate and
+use the command line and perform shell scripting

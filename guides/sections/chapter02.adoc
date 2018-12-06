@@ -1,0 +1,27 @@
+= Chapter 2: Designing Containerized Applications for OpenShift
+*Overview*
+[width="100%",cols="5,10a"]
+|===
+|*Goal*
+|Select an application containerization method for an
+application and package it to run on an OpenShift cluster.
+|*Objectives*|
+
+* Select an appropriate application containerizations method.
+* Build a container image with advanced Dockerfile directives.
+* Select a method for injecting configuration data into an application
+and create the necessary resources to do so.
+
+|*Sections*|
+
+* Selecting a Containerization Approach (and Quiz)
+* Building Container Images with Advanced Dockerfile Directives (and Guided Exercise)
+* Injecting Configuration Data into an Application  (and Guided Exercise)
+
+|*Lab*|
+Designing Containerized Applications for OpenShift
+|===
+
+include::chapter02s01.adoc[]
+
+include::chapter02s02.adoc[]

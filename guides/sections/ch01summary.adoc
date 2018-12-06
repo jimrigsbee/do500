@@ -1,0 +1,6 @@
+== Summary
+In this chapter, you learned that:
+
+* OpenShift can run container images created externally. Container images created
+using OpenShift can also be used externally.
+* OpenShift...

@@ -1,0 +1,26 @@
+:imagesdir: ./images
+DevOps Culture and Practice
+===========================
+Facilitator Guide
+{release-string}
+:doctype: book
+:title-logo-image: image:RHT-banner.svg[]
+:toc:
+:toclevels: 1
+
+OCP 3.11 DO500 +
+DevOps Culture and Practice +
+Edition 1 20190228
+
+*Authors:* Richard Allred, Jim Rigsbee, Ravishankar Srinivasan +
+*Editor:* Seth Kenlon
+
+_Derived from materials created by Red Hat Open Innovation Labs_
+
+include::common/copyright.adoc[]
+
+include::sections/introduction.adoc[]
+
+include::sections/chapter01.adoc[]
+
+include::sections/chapter02.adoc[]

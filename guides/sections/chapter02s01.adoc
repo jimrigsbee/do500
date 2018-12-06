@@ -1,0 +1,37 @@
+== Selecting a Containerization Approach
+
+=== Objective
+After completing this section, students should be able to select an appropriate
+application containerization method.
+
+=== Selecting a Build Method
+:table-caption:
+:table-number: 0
+.Methods of Containerization
+[width="100%",cols="1a"]
+|===
+|
+* There are several ways to create container images:
+** Container Images built outside of OpenShift
+** Dockerfiles
+** Source-to-Image builder images containing:
+*** based operating system libraries
+*** compilers and interpreters
+*** run times
+*** frameworks
+*** Source-to-Image tooling
+|===
+
+_Remainder of section has been removed_
+
+=== References
+Red Hat Container Catalog
+
+https://access.redhat.com/documentation/en-us/openshift_container_platform/3.6/html/developer_guide/
+
+Dockerfiles for images that are part of the Red Hat Software Collections
+library are available at
+
+https://github.com/sclorg?q=-container
+
+Further information about ...

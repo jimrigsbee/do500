@@ -1,0 +1,29 @@
+== Quiz: Selecting a Containerization Approach
+Choose the correct answers to the following questions:
+
+. You have been asked to deploy a commercial, third-party, .NET-based
+application to an OpenShift cluster, which is packaged by the vendor as a
+container image. Which of the following options would you use to deploy the
+application?
+.. A Source-to-Image build.
+.. A custom Source-to-Image builder.
+.. Stage the container image in a private docker registry, and then deploy
+the container image to an OpenShift cluster using the OpenShift *oc*
+command-line tool.
+.. None of these. You cannot deploy .NET-based applications on an OpenShift
+cluster
+. You are tasked...
+
+== Quiz Solution
+. You have been asked to deploy a commercial, third-party, .NET-based
+application to an OpenShift cluster, which is packaged by the vendor as a
+container image. Which of the following options would you use to deploy the
+application?
+.. [line-through]#A Source-to-Image build.#
+.. [line-through]#A custom Source-to-Image builder.#
+.. Stage the container image in a private docker registry, and then deploy
+the container image to an OpenShift cluster using the OpenShift *oc*
+command-line tool.
+.. [line-through]#None of these. You cannot deploy .NET-based applications on an OpenShift
+cluster.#
+. You are tasked...
