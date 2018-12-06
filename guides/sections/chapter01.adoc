@@ -26,5 +26,3 @@ Deploying and Managing Applications on an OpenShift Cluster
 include::chapter01s01.adoc[]
 
 include::chapter01s02.adoc[]
-
-include::ch01summary.adoc[]

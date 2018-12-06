@@ -22,5 +22,3 @@ include::common/copyright.adoc[]
 include::sections/introduction.adoc[]
 
 include::sections/chapter01.adoc[]
-
-include::sections/chapter02.adoc[]
