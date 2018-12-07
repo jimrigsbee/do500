@@ -1,0 +1,54 @@
+=== Section 2: What Animal Represents You?
+
+==== Objective
+To build rapport among the participants of the class and determine team sentiment.
+
+Blah, Blah - in this exercise...
+
+==== Supplies / Props Needed
+:table-caption:
+[width="100%",cols="2"]
+|===
+|
+**Quantity**
+|
+**Description**
+|
+1pp
+|
+Small sticky note pad
+|
+1pp
+|
+Sharpie pens - multiple colors
+|===
+
+==== Facilitator Setup Instructions
+There is no setup required for this exercise.
+
+==== Practices Covered
+Might be team sentiment?
+
+==== Technical Labs
+None
+
+==== Slides
+None
+
+==== Activity
+===== Activity Type
+Experiential Exercise
+
+===== Suggested Timing
+? minutes
+
+===== Facilitator Instructions
+. Have each student grab a sticky note and pen.
+. Have each student draw a picture of an animal that represents how they are
+feeling going into this class.
+. While in a circle, facilitate a discussion where each person shares the
+picture of their animal and relates why they chose that animal.
+
+===== Additional Facilitator Notes
+The facilitator may participate as desired.
+Students keep the animal picture; they are not necessarily posted on the wall.

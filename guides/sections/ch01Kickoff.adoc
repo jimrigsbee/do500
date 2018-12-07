@@ -1,0 +1,21 @@
+== Chapter 1: Kick Off and Target Outcomes
+
+=== Goal
+Build rapport and collaboratively define the
+target outcomes for the class.
+
+=== Overview
+In this chapter, we begin to build rapport with a couple of ice breakers.
+We present the first practice,
+https://openpracticelibrary.com/practice/target-outcomes[Target Outcomes].
+
+==== Suggested Timing
+80 minutes
+
+include::ch01s01AgileFaces.adoc[]
+
+include::ch01s02Animal.adoc[]
+
+include::ch01s03TargetOutcomes.adoc[]
+
+include::ch01s04IntroDevOps.adoc[]

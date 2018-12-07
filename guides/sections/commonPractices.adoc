@@ -1,0 +1,20 @@
+== Common Practices
+
+=== Goal
+To identify common practices that should be utilized
+throughout the course.
+
+==== Class Backlog and Kanban Board
+To be documented.
+
+==== Retrospectives
+A daily retrospective must be conducted at the end
+of each day. Different types of retrospectives should
+be used to provide variety for the students and expose
+the students to different types of retrospectives. Common
+types include:
+
+* **Start, Stop, Go** +
+This is a blah blah
+* **Another One** +
+Blah blah.

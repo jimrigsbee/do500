@@ -7,7 +7,6 @@ Facilitator Guide
 :title-logo-image: image:RHT-banner.svg[]
 :toc:
 :toclevels: 1
-:uri-asciidoctor: http://asciidoctor.org
 
 OCP 3.11 DO500 +
 DevOps Culture and Practice +
@@ -22,4 +21,14 @@ include::common/copyright.adoc[]
 
 include::sections/introduction.adoc[]
 
-include::sections/chapter01.adoc[]
+include::sections/facilitySetup.adoc[]
+
+include::sections/generalDelivery.adoc[]
+
+include::sections/commonPractices.adoc[]
+
+include::sections/teamBuilding.adoc[]
+
+include::sections/courseOverview.adoc[]
+
+include::sections/ch01Kickoff.adoc[]

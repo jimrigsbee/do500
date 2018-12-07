@@ -1,0 +1,14 @@
+== Team Building Exercises
+
+=== Goal
+To provide the facilitator with a list of team
+building exercises to choose from during the course.
+
+==== Zip, Zap, Zop
+Blah Blah
+
+==== Human Rock, Paper, Scissors
+Blah Blah
+
+==== More
+Blah Blah

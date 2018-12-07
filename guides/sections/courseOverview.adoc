@@ -1,0 +1,19 @@
+== Course Overview
+
+=== Goal
+To provide the facilitator with a general overview
+of the course that can be shared with the students at
+the beginning of the first day.
+
+=== Course Objectives
+Blah blah. Copy from course intro.
+
+=== Summary Agenda
+Document the highlights of the entire course.
+
+* **Living the DevOps culture** +
+Blah Blah
+* **Learning about DevOps practices** +
+Blah Blah
+* **More...** +
+Blah Blah

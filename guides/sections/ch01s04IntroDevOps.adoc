@@ -1,0 +1,69 @@
+=== Section 4: Introduction to DevOps Culture and Practice
+
+==== Objective
+TBD.
+
+In this blah....
+
+==== Supplies / Props Needed
+:table-caption:
+[width="100%",cols="2"]
+|===
+|
+**Quantity**
+|
+**Description**
+|
+1pp*
+|
+A5 or small sticky note pad
+|
+1pp
+|
+Sharpie pens - multiple colors
+|===
+*pp = per person
+
+==== Facilitator Setup Instructions
+Ensure there is an "Agile Faces" space on the wall.
+
+==== Practices Covered
+No specific practices are covered.
+
+==== Technical Labs
+None
+
+==== Slides
+None
+
+==== Activity
+===== Activity Type
+Experiential Exercise
+
+===== Suggested Timing
+20 minutes
+
+===== Facilitator Instructions
+. Have each student grab an sticky note and pen.
+. Have the student write their name in the corner.
+. Have students find a partner and introduce themselves, exchange papers, and specify a facial component to draw. After the part of the face is drawn, the students exchange papers again so that the student has their own sticky note. The first component are the eyes.
+. Repeat the previous process for each facial component:
+.. Nose
+.. Mouth
+.. Ears
+.. Hair / Facial Hair
+. Have students post their sticky note on the "Agile Faces" portion of the wall.
+
+===== Additional Facilitator Notes
+The facilitator will participate if there is an odd number of participants.
+
+==== Activity
+===== Activity Type
+Discussion
+
+===== Suggested Timing
+5 minutes
+
+===== Questions for Discussion
+. How did you feel about this exercise?
+. Is this something you can use in your organization? If so, how?

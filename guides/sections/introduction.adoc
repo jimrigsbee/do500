@@ -1,27 +1,35 @@
 == Introduction
 
-=== Red Hat OpenShift Development I: Containerizing Applications
+=== DevOps Culture and Practice
 
-Red Hat OpenShift Container Platform, based on container technology and
-Kubernetes, provides developers an enterprise-ready solution for developing
-and deploying containerized software applications.
+Many organizations are making or want to make a shift towards a modern application
+development and delivery model. This model, called DevOps, promises to provide
+streams of new features in shorter delivery windows by employing techniques such
+as Continuous Integration, Continuous Delivery, and Agile development practices.
+Entering the world of digital transformation requires not only a technology shift
+but a cultural shift.
 
-_Red Hat OpenShift Development I: Containerizing Applications_ (DO288),
-the second course in the OpenShift development track, teaches students how
-to design, build, and deploy containerized software applications on an
-OpenShift cluster. Whether writing native container applications or
-migrating existing applications, this course provides hands-on training
-to boost developer productivity powered by Red Hat OpenShift Container Platform.
+_DevOps Culture and Practice_ (DO500),
+provides the student an immersive experience of DevOps culture, modern software
+development practices, and modern application development architectures.
+Through team work the students engage in modern practices, experience a new
+culture, and complete hands-on labs that deploy modern, containerized applications
+featuring foundational DevOps principles and Red Hat OpenShift Container Platform.
 
 === Objectives
-* Design, build, and deploy containerized applications on an OpenShift cluster.
+* Gain experience using various DevOps practices that will help the student in
+their desire to transform the software development culture in their organization
+* Apply DevOps practices and principles in the development of a simple web application
+using Red Hat technologies
+* TBD
 
 === Audience
 * Software Developers
 * Software Architects
+* Product Owners
+* Project Managers
+* Business Analysts
 
 === Prerequisites
-* Either have completed the _Introduction to Containers, Kubernetes, and Red Hat
-OpenShift_ (DO180) course, or have equivalent knowledge.
-* A minimum of an RHCSA certification or equivalent experience to navigate and
-use the command line and perform shell scripting
+* It is recommended that the student be working in an Agile environment or has had Agile
+training.
