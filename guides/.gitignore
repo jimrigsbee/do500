@@ -1,1 +1,3 @@
 builds
+.jekyll*
+_site
