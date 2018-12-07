@@ -1,0 +1,18 @@
+plugins:
+- jekyll-asciidoc
+title: DevOps Culture and Practice
+description: Facilitator Guide 
+exclude:
+  - LICENSE.adoc
+  - README.adoc
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+asciidoc: {}
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  attributes:
+    - idseparator=_
+    - source-highlighter=coderay
+    - icons=font
