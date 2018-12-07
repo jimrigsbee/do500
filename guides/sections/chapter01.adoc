@@ -1,4 +1,4 @@
-= Chapter 1: Deploying and Managing Applications on an OpenShift Cluster
+== Chapter 1: Deploying and Managing Applications on an OpenShift Cluster
 *Overview*
 [width="100%",cols="5,10a"]
 |===

@@ -1,6 +1,7 @@
 /* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
 /* Remove comment around @import statement below when using as a custom stylesheet */
 /*@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";*/
+@import url("https://s3.amazonaws.com/static.slid.es/fonts/overpass2/overpass2.css");
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block
 }
@@ -23,7 +24,7 @@ script {
 }
 
 html {
-  font-family: sans-serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%
 }
@@ -192,7 +193,7 @@ body {
   color: rgba(0, 0, 0, .8);
   padding: 0;
   margin: 0;
-  font-family: "Noto Serif", "DejaVu Serif", serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   font-weight: 400;
   font-style: normal;
   line-height: 1;
@@ -320,7 +321,7 @@ p aside {
 }
 
 h1, h2, h3, #toctitle, .sidebarblock>.content>.title, h4, h5, h6 {
-  font-family: "Open Sans", "DejaVu Sans", sans-serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   font-weight: 300;
   font-style: normal;
   color: #ba3925;
@@ -777,7 +778,7 @@ p a>code:hover {
 }
 
 #toc ul {
-  font-family: "Open Sans", "DejaVu Sans", sans-serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   list-style-type: none
 }
 
@@ -971,7 +972,7 @@ p a>code:hover {
 .admonitionblock td.content>.title, .audioblock>.title, .exampleblock>.title, .imageblock>.title, .listingblock>.title, .literalblock>.title, .stemblock>.title, .openblock>.title, .paragraph>.title, .quoteblock>.title, table.tableblock>.title, .verseblock>.title, .videoblock>.title, .dlist>.title, .olist>.title, .ulist>.title, .qlist>.title, .hdlist>.title {
   text-rendering: optimizeLegibility;
   text-align: left;
-  font-family: "Noto Serif", "DejaVu Serif", serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   font-size: 1rem;
   font-style: italic
 }
@@ -1008,7 +1009,7 @@ table.tableblock #preamble>.sectionbody>.paragraph:first-of-type p {
 
 .admonitionblock>table td.icon .title {
   font-weight: bold;
-  font-family: "Open Sans", "DejaVu Sans", sans-serif;
+  font-family: "Overpass 2", Overpass, sans-serif !important;
   text-transform: uppercase
 }
 
