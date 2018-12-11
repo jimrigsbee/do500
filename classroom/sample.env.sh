@@ -6,5 +6,5 @@ export REG_TOKEN=<registry.redhat.io service account token>
 export ENV_ID=<subdomain for this cluster>
 export OCP_USERNAME=<cluster admin account>
 export OCP_PASSWORD=<cluster admin password>
-export IDM_DM_PASSWORD=D0ma1n123!
-export IDM_ADMIN_PASSWORD=Adm1n123!
+export IDM_DM_PASSWORD=<password here>
+export IDM_ADMIN_PASSWORD=<password here>
